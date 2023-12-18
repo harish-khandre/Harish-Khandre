@@ -12,12 +12,4 @@ Skills: Next JS / React / TS / JS / Responsive web design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish-khandre)](https://github.com/anuraghazra/github-readme-stats)
 
-## Examples of Work
 
-<img src="https://imgur.com/B62qjHt.gif"  />
--
-<img src="https://imgur.com/aC4FIjB.gif"  />
--
-<img src="https://imgur.com/geNjvZP.gif" />
--
-<img src="https://imgur.com/euh5avOP.gif" />
