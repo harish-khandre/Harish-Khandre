@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Harish 
+### Hi there 👋,I'm Harish 
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif)
+![I am a Full Stack Developer]
 
 I'm a Freelance web developer with a focus on MERN (MongoDB, Express.js, React, Node.js) and T3 (TypeScript, Tailwind CSS, TRPC) stacks, along with expertise in Next.js and Responsive Web Design.
 
