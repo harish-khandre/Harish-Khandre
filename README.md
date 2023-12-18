@@ -1,6 +1,5 @@
 ### Hi there 👋,I'm Harish 
-#### I am a Full Stack Developer
-![I am a Full Stack Developer]
+#### A self-taught full-stack developer
 
 I'm a Freelance web developer with a focus on MERN (MongoDB, Express.js, React, Node.js) and T3 (TypeScript, Tailwind CSS, TRPC) stacks, along with expertise in Next.js and Responsive Web Design.
 
