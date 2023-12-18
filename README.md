@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Harish 
+### Hi there 👋, I'm Harish 
 #### A self-taught full-stack developer
 
 I'm a Freelance web developer with a focus on MERN (MongoDB, Express.js, React, Node.js) and T3 (TypeScript, Tailwind CSS, TRPC) stacks, along with expertise in Next.js and Responsive Web Design.
@@ -12,3 +12,8 @@ Skills: Next JS / React / TS / JS / Responsive web design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish-khandre)](https://github.com/anuraghazra/github-readme-stats)
 
+## Examples of Work
+<img src="https://imgur.com/B62qjHt" width="256" />
+<img src="https://imgur.com/aC4FIjB" width="256" />
+<img src="https://imgur.com/geNjvZP" width="256" />
+<img src="https://imgur.com/euh5avOP" width="256" />
