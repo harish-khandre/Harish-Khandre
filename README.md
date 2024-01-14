@@ -4,7 +4,7 @@
 
 ### I'm a Freelance web developer with a focus on MERN (MongoDB, Express.js, React, Node.js) and T3 (TypeScript, Tailwind CSS, TRPC) stacks, along with expertise in Next.js and Responsive Web Design.
 
-## My Skills:
+### My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,bun,express,react,nextjs,mongodb,mysql,postgres,prisma,neovim)](https://skillicons.dev)
 
