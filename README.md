@@ -6,7 +6,7 @@
 
 ### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,bun,express,react,nextjs,mongodb,mysql,postgres,prisma,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,bun,express,react,nextjs,mongodb,mysql,postgres,prisma,neovim,recoil)](https://skillicons.dev)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//harish-khandre//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/whoisharish_/)  -->
 
