@@ -7,7 +7,7 @@
    <br>
    </samp><br>
 <p align="center"><samp> ~
-   <a href="https://www.linkedin.com/in/harish-khandre/" target="_blank" rel="noopener noreferrer">linkedin</a>
+   <a href="https://harishh.me/" target="_blank" rel="noopener noreferrer">Portfolio</a>
    ·
    <a href="https://twitter.com/khandreharish" target="_blank" rel="noopener noreferrer">X</a>
    ·
